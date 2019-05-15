@@ -1,0 +1,97 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+}
+
+#imagen h1 {
+	position: relative;
+	bottom: 300px;
+	font-family: 'Oswald', extra-light sans-serif;
+	font-weight: 200;
+}
+
+#imagen h2 {
+	position: relative;
+	bottom: 300px;
+	font-family: 'Oswald', bold sans-serif;
+	font-weight: 400;
+}
+
+.contacto h2 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+}
+
+#imagen {
+	position:relative;
+}
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 700;
+}
+
+header h1 {
+	font-family: 'Oswald' extra-light, sans-serif;
+	font-weight: 200;
+}
+
+nav {
+	background-color: #660066;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+
+.container h4 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+}
+
+.line2 {
+	border-top: 2px solid;
+	}
+
+#about p {
+	font-family: 'Open Sans', semi-bold sans-serif;
+	font-weight: 600;
+	font-size: 1.5em;
+	color: #373A3C;
+}
+
+.line {
+	border-top: 2px solid;
+}
+
+#trabajos h2 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 200;
+}
+
+#trabajos {
+	background-color: #660066
+}
+
+#trabajostitle {
+	padding-top: 150px;
+}
+
+.card {
+	margin-left: 50px: ;
+}
+
+footer h3{
+	color: white;
+}
+
+footer a {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+footer div {
+	display: inline-block;
+}
+
+footer {
+	background-color: #660066;
+}
